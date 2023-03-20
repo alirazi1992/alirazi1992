@@ -1,0 +1,14 @@
+#display-area-form{
+    display: none;
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid black;
+}
+#lock-button{
+    margin: 20px 0;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
