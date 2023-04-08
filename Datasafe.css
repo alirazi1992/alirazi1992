@@ -12,3 +12,56 @@
     border: none;
     cursor: pointer;
 }
+footer{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-align:center;
+}
+body {
+    background-color:lightgray ;
+}
+h2{
+    border-style: groove ;
+    text-align: center;
+}
+form{
+    border-style:ridge;
+    display:inline-block;
+    
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex; 
+  }
+  
+  nav li {
+    margin-right: 20px; 
+  }
+  
+  nav li:last-child {
+    margin-right: 0;  
+  }
+  section ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex; 
+    
+  }
+  
+  section li {
+    margin-right: 20px;
+  }
+  
+  section li:last-child {
+    margin-right: 0; text-align: center;
+  }
+  
+
+  
