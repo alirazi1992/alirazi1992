@@ -27,6 +27,7 @@ body {
 h2{
     border-style: groove ;
     text-align: center;
+    background-color: plum;
 }
 form{
     border-style:ridge;
