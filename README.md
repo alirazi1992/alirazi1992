@@ -17,6 +17,19 @@
 
 ---
 
+
+### 🏆 Achievements & Languages
+
+<div align="center">
+  <!-- Top languages chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazi1992&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <!-- Trophy card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=alirazi1992&theme=tokyonight&no-frame=true&column=5&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+----
+
 ### 🚀 About Me
 
 - 🔭 Currently working on AI/ML solutions in healthcare and maritime industries.
