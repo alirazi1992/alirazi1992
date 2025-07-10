@@ -35,7 +35,7 @@ Frameworks:   React.js | Next.js | Tailwind CSS | .NET | Node.js
 Data:         Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch
 Tools:        Docker | Git | Firebase | Vercel | Postman | VS Code
 Cloud:        Azure | Firebase | AWS (basic)
-
+```
 ### 📊 GitHub Stats
 
 <p align="center">
