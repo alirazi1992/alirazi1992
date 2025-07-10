@@ -42,3 +42,9 @@ Cloud:        Azure | Firebase | AWS (basic)
   <img src="https://github-readme-stats.vercel.app/api?username=alirazi1992&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirazi1992&theme=tokyonight" />
 </p>
+
+### 📈 Recent Activity
+<!--START_SECTION:activity-->
+<!-- Your real-time GitHub activity will appear here after setting up the GitHub Activity workflow -->
+<!--END_SECTION:activity-->
+
