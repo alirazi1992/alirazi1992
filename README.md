@@ -48,6 +48,15 @@ Cloud:        Azure | Firebase | AWS (basic)
 
 ----
 
+### 🧠 Other Skills
+
+- 🎙️ Voice-over & narration for educational content  
+- 🎨 UI/UX Design with Figma & Adobe XD  
+- 🌐 WordPress & Website Optimization  
+- 📊 Dashboard building (Power BI, Streamlit, React)
+
+----
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -64,20 +73,9 @@ Cloud:        Azure | Firebase | AWS (basic)
 <p align="center">
   ✨ Let's build something amazing together — feel free to connect!
 </p>
-```
-----
 
-### 🧠 Other Skills
 
-- 🎙️ Voice-over & narration for educational content  
-- 🎨 UI/UX Design with Figma & Adobe XD  
-- 🌐 WordPress & Website Optimization  
-- 📊 Dashboard building (Power BI, Streamlit, React)
 
-----
 
-<p align="center">
-  🚀 Let's build, innovate, and connect — reach out anytime!
-</p>
 
 
