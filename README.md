@@ -36,6 +36,18 @@ Data:         Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch
 Tools:        Docker | Git | Firebase | Vercel | Postman | VS Code
 Cloud:        Azure | Firebase | AWS (basic)
 ```
+
+----
+
+### 📂 Featured Projects
+
+- 🔬 [**RNA Folding Predictor**](https://github.com/alirazi1992) – AI-powered model for 3D RNA structure prediction using advanced DL techniques.
+- 🛳️ [**Gulf Vessel Tracker**](https://github.com/alirazi1992) – React + Firebase dashboard that animates real-time ship tracking in the Persian Gulf.
+- 🏥 [**SmartCare Pathway**](https://github.com/alirazi1992) – Healthcare navigation app for Ontario hospitals with triage & ward integration.
+- ⚙️ [**Client Portal ITS**](https://github.com/alirazi1992) – Full-featured Issue Tracking System with bilingual support, Firebase backend, and modular role-based access.
+
+----
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -44,7 +56,28 @@ Cloud:        Azure | Firebase | AWS (basic)
 </p>
 
 ### 📈 Recent Activity
-<!--START_SECTION:activity-->
-<!-- Your real-time GitHub activity will appear here after setting up the GitHub Activity workflow -->
-<!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirazi1992&theme=tokyonight" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  ✨ Let's build something amazing together — feel free to connect!
+</p>
+```
+----
+
+### 🧠 Other Skills
+
+- 🎙️ Voice-over & narration for educational content  
+- 🎨 UI/UX Design with Figma & Adobe XD  
+- 🌐 WordPress & Website Optimization  
+- 📊 Dashboard building (Power BI, Streamlit, React)
+
+----
+
+<p align="center">
+  🚀 Let's build, innovate, and connect — reach out anytime!
+</p>
+
 
