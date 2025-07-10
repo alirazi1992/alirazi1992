@@ -120,7 +120,7 @@ Cloud:        Azure | Firebase | AWS (basic)
 ### 📈 Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirazi1992&theme=tokyonight" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirazi1992&theme=github-compact&radius=10&color=B993FC&line=7B61FF&point=FFFFFF&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
