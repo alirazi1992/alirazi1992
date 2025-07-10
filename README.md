@@ -15,23 +15,6 @@
   </a>
 </p>
 
----
-
-
-### 📊 GitHub Performance & Skills
-
-<div align="center">
-  
-  <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazi1992&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Languages" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alirazi1992&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true" alt="Ali's GitHub Stats" />
-
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirazi1992&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ----
 
 ### 🚀 About Me
@@ -119,12 +102,20 @@ Cloud:        Azure | Firebase | AWS (basic)
 
 ----
 
-### 📊 GitHub Stats
+### 📊 GitHub Performance & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirazi1992&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirazi1992&theme=tokyonight" />
-</p>
+<div align="center">
+  
+  <!-- Most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazi1992&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alirazi1992&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true" alt="Ali's GitHub Stats" />
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirazi1992&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
 
 ### 📈 Recent Activity
 
