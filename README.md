@@ -35,3 +35,10 @@ Frameworks:   React.js | Next.js | Tailwind CSS | .NET | Node.js
 Data:         Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch
 Tools:        Docker | Git | Firebase | Vercel | Postman | VS Code
 Cloud:        Azure | Firebase | AWS (basic)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alirazi1992&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirazi1992&theme=tokyonight" />
+</p>
