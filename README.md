@@ -13,6 +13,9 @@
   <a href="https://github.com/alirazi1992" target="_blank">
     <img src="https://img.shields.io/github/followers/alirazi1992?label=Follow&style=social" />
   </a>
+  <a href="https://www.kaggle.com/alirazi1992" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ----
